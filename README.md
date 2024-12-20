@@ -48,7 +48,7 @@ This script demonstrates the interaction with a REST API using Python. It reads 
 1. Ensure the `data/sample_request.json` file exists with the required JSON input.
 2. Run the script using:
    ```bash
-   python src\api_json_handler.py
+   python src/api_json_handler.py
    ```
 3. Output will be written to `data/sample_response.json`.
 
